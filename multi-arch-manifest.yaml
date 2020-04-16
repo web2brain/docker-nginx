@@ -1,4 +1,4 @@
-image: dperson/torproxy:latest
+image: web2brain/nginx:latest
 manifests:
   - image: web2brain/nginx:amd64
     platform:
